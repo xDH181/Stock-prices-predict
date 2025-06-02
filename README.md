@@ -88,3 +88,5 @@ pip install pandas numpy matplotlib seaborn scikit-learn keras
 
 ## 📬 Contact  
 For questions or suggestions, feel free to open an issue or contact the project maintainer.
+
+Email : haidangforworks@gmail.com
